@@ -1,3 +1,4 @@
+[
 {
 		"name": "Mandir",
 		"replaces": "Temple",
@@ -9,3 +10,15 @@
 		"requiredTech": "Philosophy",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[10]% Food is carried over after population increases [in this city]","[+1 Food] from [Cattle] tiles [in this city]"]
 	},
+{
+                "name": "Star Ghandi",
+                "replaces": "Shrine",
+                "uniqueTo": "India",
+                "faith": 1,
+                "maintenance": 2,
+                "hurryCostModifier": 25,
+                "requiredTech": "Pottery",
+                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[3]% Culture cost of natural border growth [in all cities connected to capital]","[+1 Food] from [Cattle] tiles [in this city]"]
+        },
+
+]
