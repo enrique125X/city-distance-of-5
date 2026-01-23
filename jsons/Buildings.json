@@ -16,9 +16,9 @@
                 "uniqueTo": "India",
                 "faith": 1,
                 "maintenance": 2,
-                "hurryCostModifier": 25,
+                "hurryCostModifier": 15,
                 "requiredTech": "Pottery",
-                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[3]% Culture cost of natural border growth [in all cities connected to capital]", "[3]% Gold cost of acquiring tiles [in all cities connected to capital]", "May buy [Keshik] units with [Gold] [in your cities]"]
+                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[-3]% Culture cost of natural border growth [in all cities connected to capital]", "[-3]% Gold cost of acquiring tiles [in all cities connected to capital]", "+1 Food"]
         },
 
 ]
