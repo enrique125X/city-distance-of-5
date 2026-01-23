@@ -1,6 +1,6 @@
 {
   "constants": {
-    "minimalCityDistance": 5,
-    "minimalCityDistanceOnDifferentContinents": 5
+    "minimalCityDistance": 3,
+    "minimalCityDistanceOnDifferentContinents": 4
   }
 }
