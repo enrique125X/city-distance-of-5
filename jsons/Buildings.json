@@ -18,7 +18,7 @@
                 "maintenance": 2,
                 "hurryCostModifier": 25,
                 "requiredTech": "Pottery",
-                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[3]% Culture cost of natural border growth [in all cities connected to capital]","May buy [Military] units for [nonNegativeAmount] [Science] [Capital], "[3]% Gold cost of acquiring tiles [in all cities connected to capital]"
+                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[3]% Culture cost of natural border growth [in all cities connected to capital]","May buy [Military] units for [nonNegativeAmount] [Science] [Capital]", "[3]% Gold cost of acquiring tiles [in all cities connected to capital]"]
         },
 
 ]
