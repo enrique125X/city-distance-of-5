@@ -1,7 +1,22 @@
 [
-	{
-		"name": "Keshik",
-		"uniqueTo": "India"
 
-}
+	"name": "Keshik",
+		"unitType": "Archery",
+		"replaces": "Knight",
+		"uniqueTo": "India",
+		"range": 2,
+		"movement": 5,
+		"strength": 15,
+		"rangedStrength": 16,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Great Generals I", "Quick Study"],
+		"attackSound": "arrow"
+		// Keshik should have no penalty attacking cities
+	},
+
 ]
