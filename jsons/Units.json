@@ -33,7 +33,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-"promotions": ["Buffalo corns"],
+"promotions": ["Buffalo Horns"],
   "textura": "War Elephant",
 		"attackSound": "elephant"
 	}
