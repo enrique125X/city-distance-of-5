@@ -3,7 +3,7 @@
 	"name": "Keshik",
 		"unitType": "Archery",
 		"replaces": "Knight",
-		"uniqueTo": "["India", "Mongolia"]",
+		"uniqueTo": ["India", "Mongolia"],
 		"range": 2,
 		"movement": 5,
 		"strength": 15,
