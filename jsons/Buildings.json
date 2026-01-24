@@ -23,19 +23,4 @@
                 "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[-3]% Culture cost of natural border growth [in all cities connected to capital]", "[-3]% Gold cost of acquiring tiles [in all cities connected to capital]"]
         },
 
-	{
-		"name": "Heroic Epic",
-		"cost": 125,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": [
-			"Comment [Provides 1 [Great Work of Writing] Slot]",
-			"All newly-trained [non-air] units [cityFilter] receive the [Morale] promotion"
-			"Cost increases by [30] per owned city"
-		],
-		"requiredTech": "Iron Working",
-		"civilopediaText": [
-			{ "text": "[Great Work of Writing] Slot", "link": "Building/[Heroic Epic] [Great Work of Writing]" }
-		]
-	}
 ]
