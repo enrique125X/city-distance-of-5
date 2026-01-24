@@ -20,4 +20,21 @@
 		// Keshik should have no penalty attacking cities
 	},
 
+	"name": "War Elephant",
+		"unitType": "Archery",
+		"uniqueTo": "India",
+		"replaces": "Chariot Archer",
+		"movement": 3,
+		"strength": 9,
+		"rangedStrength": 11,
+		"cost": 80,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+"promotions": ["Buffalo corns"],
+  "textura": "War Elephant",
+		"attackSound": "elephant"
+	},
+
 ]
