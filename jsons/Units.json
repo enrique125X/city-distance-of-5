@@ -20,6 +20,7 @@
 		// Keshik should have no penalty attacking cities
 	},
 
+{
 	"name": "War Elephant",
 		"unitType": "Archery",
 		"uniqueTo": "India",
@@ -35,6 +36,6 @@
 "promotions": ["Buffalo corns"],
   "textura": "War Elephant",
 		"attackSound": "elephant"
-	},
+	}
 
 ]
