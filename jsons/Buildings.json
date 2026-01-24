@@ -19,6 +19,7 @@
                 "maintenance": 2,
                 "hurryCostModifier": 15,
                 "requiredTech": "Pottery",
+                "textura": "Shrine",
                 "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[-3]% Culture cost of natural border growth [in all cities connected to capital]", "[-3]% Gold cost of acquiring tiles [in all cities connected to capital]"]
         },
 
@@ -29,8 +30,7 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Comment [Provides 1 [Great Work of Writing] Slot]",
-			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-			"Grants [Morale] ([comment]) to adjacent [Friendly] units for the rest of the game",
+			"All newly-trained [non-air] units [cityFilter] receive the [Morale] promotion"
 			"Cost increases by [30] per owned city"
 		],
 		"requiredTech": "Iron Working",
