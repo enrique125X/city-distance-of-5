@@ -30,7 +30,7 @@
 		"uniques": [
 			"Comment [Provides 1 [Great Work of Writing] Slot]",
 			"Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-			"Grants [Morale] ([comment]) to adjacent [Friendly] units for the rest of the game"
+			"Grants [Morale] ([comment]) to adjacent [Friendly] units for the rest of the game",
 			"Cost increases by [30] per owned city"
 		],
 		"requiredTech": "Iron Working",
