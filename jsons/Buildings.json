@@ -16,6 +16,7 @@
                 "uniqueTo": "India",
                 "faith": 1,
                 "food": 1,
+                "cost": 40,
                 "maintenance": 2,
                 "hurryCostModifier": 15,
                 "requiredTech": "Pottery",
