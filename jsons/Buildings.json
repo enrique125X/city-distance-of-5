@@ -21,7 +21,7 @@
                 "hurryCostModifier": 15,
                 "requiredTech": "Pottery",
                 "textura": "Shrine",
-                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Production] per [4] population [in this city]", "[+1 culture] per [6] population [in this city]"]
+                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Production] per [4] population [in this city]", "[+1 Culture] per [6] population [in this city]"]
         },
 
 ]
