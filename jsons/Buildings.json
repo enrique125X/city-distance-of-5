@@ -4,11 +4,12 @@
 		"replaces": "Temple",
 		"uniqueTo": "India",
 		"faith": 2,
+  "food": 3,
 		"requiredBuilding": "Shrine",
 		"maintenance": 3,
 		"hurryCostModifier": 25,
-		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[10]% Food is carried over after population increases [in this city]","[+1 Food] from [Cattle] tiles [in this city]"]
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[12]% Food is carried over after population increases [in this city]"]
 	},
 {
                 "name": "Staring Ghandi",
@@ -21,7 +22,7 @@
                 "hurryCostModifier": 15,
                 "requiredTech": "Pottery",
                 "textura": "Shrine",
-                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Production] per [4] population [in this city]", "[+1 Culture] per [6] population [in this city]"]
+                "uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Production] per [4] population [in this city]", "[+1 Culture] per [5] population [in this city]"]
         },
 
 ]
