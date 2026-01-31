@@ -28,7 +28,7 @@
 		"movement": 2,
 		"strength": 9,
 		"rangedStrength": 12,
-		"cost": 76,
+		"cost": 70,
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
