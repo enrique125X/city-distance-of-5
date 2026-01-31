@@ -4,7 +4,7 @@
 		"replaces": "Temple",
 		"uniqueTo": "India",
 		"faith": 2,
-  "food": 3,
+   "food": 3,
 		"requiredBuilding": "Shrine",
 		"maintenance": 3,
 		"hurryCostModifier": 25,
