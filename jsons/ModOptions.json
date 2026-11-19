@@ -1,8 +1,0 @@
-{
-  "constants": {
-    "minimalCityDistance": 3,
-    "minimalCityDistanceOnDifferentContinents": 4
-    "cityWorkRange":4,"cityExpandRange":5
-    "maxXPfromBarbarians": 10000
-  }
-}
