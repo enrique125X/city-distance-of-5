@@ -1,0 +1,29 @@
+ [
+	{
+		"name": "India",
+		"leaderName": "Henric el Soberbio",
+//		"personality": ["India"],
+		"adjective": ["Indian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		"outerColor": [14, 113, 4],
+		"innerColor": [255, 163, 71],
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Population Growth",
+		"uniques": [
+  "May buy items in puppet cities",	"Starts with [Mercantilism] adopted",
+			"Free [Worker] appears","[66]% to Flank Attack bonuses",
+			"Earn [5]% of the damage done to [Military] units as [Faith]",
+			"Earn [10]% of the damage done to [Military] units as [Culture]",
+  
+			"[20]% [Production] [in all cities connected to capital]",
+			"[+100]% unhappiness from the number of cities",
+			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[+25]% growth [in all cities]"
+		],
+		"cities": [
+			"Mi Casa","Cantabria","Asturias","Bilbao","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
+			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur","Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"
+		]
+}
+]
