@@ -14,7 +14,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"promotions": ["Great Generals I", "Quick Study"],
+//		"promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
   "textura": "Keshik"
 		// Keshik should have no penalty attacking cities
