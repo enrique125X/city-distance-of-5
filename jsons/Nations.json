@@ -13,8 +13,8 @@
 		"uniques": [
   "May buy items in puppet cities",	"Starts with [Mercantilism] adopted",
 			"Free [Worker] appears","[66]% to Flank Attack bonuses",
-			"Earn [5]% of the damage done to [Military] units as [Faith]",
-			"Earn [10]% of the damage done to [Military] units as [Culture]",
+		//	"Earn [5]% of the damage done to [Military] units as [Faith]",
+		//	"Earn [10]% of the damage done to [Military] units as [Culture]",
   
 			"[20]% [Production] [in all cities connected to capital]",
 			"[+100]% unhappiness from the number of cities",
